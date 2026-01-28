@@ -111,8 +111,9 @@ The deployed dashboard provides:
 
 ## 🧾 Project Structure
 
--- app.py
--- requirements.txt
--- hotel_bookings.csv
--- hotel_cancellation_xgb_pipeline.pkl
--- README.md
+1. app.py
+2. requirements.txt
+3. hotel_bookings.csv
+4. Hotel_Booking_Prediction.ipynb
+5. hotel_cancellation_xgb_pipeline.pkl
+6. README.md
