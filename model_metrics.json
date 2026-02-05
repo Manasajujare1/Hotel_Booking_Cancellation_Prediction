@@ -1,0 +1,9 @@
+{
+  "best_model": "XGBoost Classifier",
+  "train_accuracy": 0.81,
+  "test_accuracy": 0.81,
+  "train_roc_auc": 0.86,
+  "test_roc_auc": 0.86,
+  "precision": 0.83,
+  "recall": 0.62
+}
